@@ -1,6 +1,11 @@
 **Privacy Policy for Worthy**
+
 Last Updated: July 2025
 Effective Date: July 2025
+
+App name: **Worthy: Net worth tracker**
+Developer: **ABCDARIO**
+Email: **privacy@abcdar.io**
 
 **1. Introduction**
 Welcome to Worthy, a net worth tracking app developed by ABCDARIO. We are committed to protecting your privacy and providing a secure, offline financial tracking experience.
