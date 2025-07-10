@@ -1,36 +1,56 @@
-**Privacy Policy for Worty: Offline Wealth Tracking**
+**Privacy Policy for Worthy**
+Last Updated: July 2025
+Effective Date: July 2025
 
-**Effective Date**: April 18, 2025
+**1. Introduction**
+Welcome to Worthy, a net worth tracking app developed by ABCDARIO. We are committed to protecting your privacy and providing a secure, offline financial tracking experience.
 
-Thank you for using Worty! This privacy policy explains how we handle your data in our completely offline application.
+**2. Information Collection and Use**
+**2.1 Local Data Storage**
 
-**1. Data Storage:**
+All data entered into the Worthy app is stored exclusively on your device.
+No personal financial information is transmitted to external servers or cloud storage.
+The app does not require user registration or login.
 
-Worty is designed to operate entirely offline. All the data you enter into the app, including your assets and any other financial information, is stored directly and securely on your own device. We do not transmit or upload any of your personal or financial data to our servers or any third-party servers.
+**2.2 Analytics**
 
-**2. No Internet Connection Required:**
+We collect anonymous usage analytics to improve app performance and user experience.
+Analytics data is collected locally and does not include any personally identifiable information.
+Usage data may include:
 
-Worty does not require an internet connection to function. This means your data remains private and on your device.
+App opens and closes
+Feature usage frequency
+General app performance metrics
 
-**3. Information We Do Not Collect:**
+**3. Data Security**
 
-Because Worty operates offline, we do not collect, store, or have access to any of your personal information, including:
+All data is stored locally on your device.
+No external party can access your financial information through this app.
+We recommend using your device's built-in security features (passcode, biometrics) for additional protection.
 
-Names
-Email addresses
-Phone numbers
-Financial account login details
-Browsing history
-Location data
-Any other data that would typically be collected by online services.
-**4. Third-Party Services:**
+**4. Third-Party Services**
 
-Worty does not integrate with any third-party services that would involve sharing your data.
+Worthy does not integrate with any third-party financial services or cloud storage.
+The app functions completely offline.
 
-**5. Security:**
+**5. Children's Privacy**
 
-Your data is stored locally on your device. The security of this data depends on the security measures you have implemented on your device (e.g., device passwords, encryption). We encourage you to take appropriate steps to secure your device.
+Worthy is suitable for all ages. It does not contain any content or language
+that would not be suitable for children
 
-**6. Children's Privacy:**
+**6. Changes to This Privacy Policy**
 
-Worty is not directed to children under the age of 13. We do not knowingly collect any personal information from children under 13. 1 
+We may update this privacy policy periodically.
+We will notify you of any significant changes within the app.
+Continued use of the app after changes constitutes acceptance of the new policy.
+
+7. Contact Us
+If you have any questions about this Privacy Policy, please contact us at:
+
+Email: privacy@abcdar.io
+
+**8. Consent**
+By downloading and using Worthy, you consent to the terms of this privacy policy.
+
+**9. Disclaimer**
+While we take reasonable precautions to protect your data, no method of local storage is 100% secure. We recommend regular backups of your device.
