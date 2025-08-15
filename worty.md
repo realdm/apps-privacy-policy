@@ -35,8 +35,16 @@ General app performance metrics
 ## **3. Data Security**
 
 All data is stored locally on your device.
-No external party can access your financial information through this app.
+No external party can access your financial information through this app unless authorized by the user.
 We recommend using your device's built-in security features (passcode, biometrics) for additional protection.
+
+### 3.1 Optional Google Drive Backup
+
+Users may optionally enable Google Drive backup functionality.
+When enabled, this feature creates encrypted backups of your app data in a dedicated "Worthy" folder in your Google Drive.
+The app only accesses the specific backup folder it creates and cannot read, modify, or access any other files or folders in your Google Drive account.
+You maintain full control over this feature and can disable it at any time.
+Backup functionality requires explicit user consent and authentication through Google's secure OAuth process.
 
 ## **4. Third-Party Services**
 
